@@ -1,4 +1,4 @@
-# Code-X-Business-insights
+# IPL Business-insights
 
 This project is the part of Codebasics Resume Challenge 10
 
@@ -11,3 +11,4 @@ They wanted to get more traffic to their website by releasing a special edition 
 This magazine aims to provide interesting insights and facts for fans, analysts and teams based on the last 3 years' data.
 
 Using Power BI, I delved into the last 3 years' data to uncover key insights requested for both primary and secondary analysis.
+
